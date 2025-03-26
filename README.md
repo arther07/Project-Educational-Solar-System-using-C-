@@ -42,8 +42,8 @@ Contributions are welcome! If you would like to improve the simulation or add ne
 
 ## Author
 
-- **Author**: Ishaan John (https://github.com/arther07)
-- **Email**: [ishaanjohn21200@gmail.com]
+- **Author**: Ishaan John https://github.com/arther07
+- **Email**: ishaanjohn21200@gmail.com
 
 ## Acknowledgments
 
